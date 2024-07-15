@@ -59,6 +59,3 @@ product-card/
 - [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css) for icons
 - [Lordicon](https://cdn.lordicon.com/qjzruarw.js) for animated icons
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
