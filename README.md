@@ -29,7 +29,7 @@ A live demo of the product card can be viewed [here](#).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/product-card.git
+   git clone https://github.com/litikesh/Product-Card.git
    ```
 2. Navigate to the project directory:
    ```bash
