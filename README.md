@@ -15,7 +15,7 @@ This project is a simple web-based product card that displays product details, i
 
 ## Demo
 
-A live demo of the product card can be viewed [here](#).
+A live demo of the product card can be viewed [here](https://litikesh.github.io/Product-Card/).
 
 ## Features
 
