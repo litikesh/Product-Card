@@ -33,7 +33,7 @@ A live demo of the product card can be viewed [here](https://litikesh.github.io/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd product-card
+   cd Product-Card
    ```
 
 ## Usage
